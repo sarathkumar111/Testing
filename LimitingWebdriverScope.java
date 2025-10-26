@@ -22,6 +22,8 @@ public class LimitingWebdriverScope {
         Thread.sleep(10000);
 
         driver.quit();
+        
+        // Learning
 
 
     }
